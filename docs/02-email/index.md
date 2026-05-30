@@ -85,7 +85,7 @@
 
 ### 注册步骤
 
-1. 需要先能访问 Google（需要 [翻墙](/06-vpn-proxy/)）
+1. 需要先能访问 Google（需要 [翻墙](/06-vpn-proxy/index.md)）
 2. 打开 [accounts.google.com](https://accounts.google.com)
 3. 点击「创建账号」
 4. 填写姓名、用户名、密码

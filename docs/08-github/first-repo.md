@@ -194,4 +194,4 @@ GitHub Desktop 提供图形界面，点点鼠标就能完成 Git 操作。
 
 ---
 
-GitHub 入门就到这里。接下来进入轻松的部分：[游戏平台](/09-gaming/) 👉
+GitHub 入门就到这里。接下来进入轻松的部分：[游戏平台](/09-gaming/index.md) 👉
