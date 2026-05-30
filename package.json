@@ -1,0 +1,13 @@
+{
+  "name": "college-guide",
+  "version": "1.0.0",
+  "description": "大学新生互联网生存指南",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
