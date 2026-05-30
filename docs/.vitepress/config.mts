@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '大学新生互联网生存指南',
   description: '帮大学新生快速掌握互联网基本技能',
+  ignoreDeadLinks: true,
 
   themeConfig: {
     nav: [
