@@ -7,7 +7,7 @@
 👉 [https://github.com](https://github.com)
 
 ::: tip 注意
-GitHub 需要翻墙访问。如果你还没配置翻墙，可以先用 [Watt Toolkit](/09-gaming/watt-toolkit) 加速 GitHub。
+GitHub 需要翻墙访问。如果你还没配置翻墙，可以先用 [Watt Toolkit](../09-gaming/watt-toolkit.md) 加速 GitHub。
 :::
 
 ### 2. 注册账号
@@ -173,7 +173,7 @@ GitHub Desktop 提供图形界面，点点鼠标就能完成 Git 操作。
 
 ### Q：GitHub 打不开怎么办？
 - GitHub 需要翻墙才能访问
-- 或者用 [Watt Toolkit](/09-gaming/watt-toolkit) 加速
+- 或者用 [Watt Toolkit](../09-gaming/watt-toolkit.md) 加速
 - 也可以用国内镜像站（搜"GitHub 镜像"）
 
 ### Q：git push 报错怎么办？
@@ -194,4 +194,4 @@ GitHub Desktop 提供图形界面，点点鼠标就能完成 Git 操作。
 
 ---
 
-GitHub 入门就到这里。接下来进入轻松的部分：[游戏平台](/09-gaming/) 👉
+GitHub 入门就到这里。接下来进入轻松的部分：[游戏平台](../09-gaming/index.md) 👉
